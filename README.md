@@ -15,7 +15,7 @@ simple fontend project on Business solution website application
 ![css](https://img.shields.io/badge/line--height-Adjacent%20sibling%20selectors-yellowgreen)
 ![css](https://img.shields.io/badge/list--style--emage-list%20style%20type-red)
 ### ScreenShot
-![Project screenshot](./thumbnail.PNG)
+![Project screenshot](./thumbnail2.PNG)
 
 
 *--------------------------------------------- Feel free to fork and play around ----------------------------------------*
