@@ -25,6 +25,9 @@ body {
     width: 100px;
   
 }
+.toggle {
+    display: none;
+}
 
 .menu-items {
     display: flex;
@@ -34,6 +37,10 @@ body {
 }
 .h-item {
     padding: 10px 25px;
+
+}
+.h-items {
+    display: flex;
 }
 
 .h-items button {
